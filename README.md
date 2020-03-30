@@ -1,2 +1,2 @@
 # BirefringenceCalculator_v1.02
-py
+Retardation specific for U-CTB e-line
